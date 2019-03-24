@@ -90,3 +90,18 @@ header > h1 {
   text-align: center;
   font-size: 25px;
 }
+
+.green-glow {
+  border: solid 4px #4dcc7d;
+  box-shadow: 0 0 10px #31b43a;
+}
+
+.red-glow {
+  border: solid 4px #fc121b;
+  box-shadow: 0 0 10px #d01115;
+}
+
+.gray-glow {
+  border: solid 4px #464647;
+  box-shadow: 0 0 10px #25292b;
+}
